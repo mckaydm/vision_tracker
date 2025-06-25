@@ -1,0 +1,4 @@
+tracker_node:
+  ros__parameters:
+    Kp: 0.5
+    Kd: 0.2
